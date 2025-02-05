@@ -1,6 +1,6 @@
 # Full Stack Blog Application
 
-A modern blog application built with Flask backend and React frontend.
+A modern blog application built with Flask backend and React frontend. This is just a test.
 
 ## Project Structure
 
